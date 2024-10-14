@@ -1,0 +1,20 @@
+2024-08-01 15:31:11 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-01 15:31:11 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-01 15:39:19 - logger_handler.py - [line:172] - ERROR - [日志信息]: 配置文件Other.ini中 键 [Run] 不存在，软件是首次运行，修改配置文件增加键值对
+2024-08-01 15:39:26 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-01 15:39:26 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-01 15:40:22 - logger_handler.py - [line:172] - ERROR - [日志信息]: ----> 断言失败 <----
+2024-08-01 15:40:30 - logger_handler.py - [line:172] - ERROR - [日志信息]: ----> 断言失败 <----
+2024-08-01 15:40:30 - logger_handler.py - [line:172] - ERROR - [日志信息]: 函数 assert_message : 报错异常 - pk[142]=1&cp=nl4gzml4&ep=si&an=1&popurl=https://www.diskpart.com/upgrade-now.html?source=toolbar&lang=en&edition=std&ver=10.4.1&useday=2&status=null&plan=free&sn=null&n_refs=PA&did=dev_id_031183ad-6d01-43ce-a7ca-66de5b907f7d#2 cannot be used in worksheets.
+2024-08-01 15:40:37 - logger_handler.py - [line:172] - ERROR - [日志信息]: ----> 断言失败 <----
+2024-08-01 15:40:37 - logger_handler.py - [line:172] - ERROR - [日志信息]: 函数 assert_message : 报错异常 - pk[422]=1&cp=plx6qxl2&ep=si&an=1&popurl=https://www.diskpart.com/upgrade-now.html?source=toolbar&lang=en&edition=std&ver=10.4.1&useday=2&status=null&plan=free&sn=null&n_refs=PA&did=dev_id_031183ad-6d01-43ce-a7ca-66de5b907f7d#3 cannot be used in worksheets.
+2024-08-01 15:50:26 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-01 15:50:26 - logger_handler.py - [line:172] - ERROR - [日志信息]: 函数 operation_dropdown_menu : 报错异常 - 'NoneType' object is not subscriptable
+2024-08-01 15:50:36 - logger_handler.py - [line:172] - ERROR - [日志信息]: ----> 断言失败 <----
+2024-08-01 15:50:44 - logger_handler.py - [line:172] - ERROR - [日志信息]: ----> 断言失败 <----
+2024-08-01 15:50:44 - logger_handler.py - [line:172] - ERROR - [日志信息]: 函数 assert_message : 报错异常 - pk[142]=1&cp=nl4gzml4&ep=si&an=1&popurl=https://www.diskpart.com/upgrade-now.html?source=toolbar&lang=en&edition=std&ver=10.4.1&useday=2&status=null&plan=free&sn=null&n_refs=PA&did=dev_id_031183ad-6d01-43ce-a7ca-66de5b907f7d#2 cannot be used in worksheets.
+2024-08-01 15:50:51 - logger_handler.py - [line:172] - ERROR - [日志信息]: ----> 断言失败 <----
+2024-08-01 15:50:51 - logger_handler.py - [line:172] - ERROR - [日志信息]: 函数 assert_message : 报错异常 - pk[422]=1&cp=plx6qxl2&ep=si&an=1&popurl=https://www.diskpart.com/upgrade-now.html?source=toolbar&lang=en&edition=std&ver=10.4.1&useday=2&status=null&plan=free&sn=null&n_refs=PA&did=dev_id_031183ad-6d01-43ce-a7ca-66de5b907f7d#3 cannot be used in worksheets.
+2024-08-01 16:12:36 - logger_handler.py - [line:172] - ERROR - [日志信息]: ----> 断言失败 <----
+2024-08-01 16:12:44 - logger_handler.py - [line:172] - ERROR - [日志信息]: ----> 断言失败 <----
+2024-08-01 16:12:51 - logger_handler.py - [line:172] - ERROR - [日志信息]: ----> 断言失败 <----

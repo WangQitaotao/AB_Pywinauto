@@ -1,0 +1,168 @@
+2024-08-02 09:48:20 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 当前系统安装版本为： Std 版
+2024-08-02 09:48:28 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 默认杀死浏览器所有进程
+2024-08-02 09:48:31 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 正在加载 webdriver.Chrome 中，并与新浏览器建立通信.......
+2024-08-02 09:48:32 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 使用cmd命令打开新的浏览器
+2024-08-02 09:49:47 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 当前系统安装版本为： Std 版
+2024-08-02 09:49:52 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 默认杀死浏览器所有进程
+2024-08-02 09:49:55 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 正在加载 webdriver.Chrome 中，并与新浏览器建立通信.......
+2024-08-02 09:50:02 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 加载完成
+2024-08-02 09:50:02 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 09:50:04 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：AOMEI Partition Assistant Standard Edition - Safely Partition Your Hard Drives ，弹出窗口并且置顶显示。
+2024-08-02 09:50:04 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 成功获取软件的坐标，写入到yaml文件中
+2024-08-02 09:50:06 - logger_handler.py - [line:165] - INFO - [日志信息]:  --------- 当前运行的功能模块 ： 首页-升级
+2024-08-02 09:50:07 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-02 09:50:08 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：{'result': (952.0, 17.5), 'rectangle': ((942, 8), (942, 27), (962, 8), (962, 27)), 'confidence': 1.0}
+2024-08-02 09:50:08 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 鼠标移动到 (1272, 133) 处，并进行点击
+2024-08-02 09:50:11 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 鼠标移动到 (641, 703) 处，并进行点击
+2024-08-02 09:50:13 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 所有句柄：['BBB8D92F01D7E77FDCC5506827C059E9', 'FDE9027704FEBBAC0271F10B6F7EACCD']
+2024-08-02 09:50:21 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 获取当前网页的URL：https://www.cleverbridge.com/1533/surl-3t0xRbS2GG
+2024-08-02 09:50:22 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 获取浏览器的所有句柄： ['BBB8D92F01D7E77FDCC5506827C059E9', 'FDE9027704FEBBAC0271F10B6F7EACCD']
+2024-08-02 09:54:52 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 当前系统安装版本为： Std 版
+2024-08-02 09:56:07 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 当前系统安装版本为： Std 版
+2024-08-02 09:58:01 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 当前系统安装版本为： Std 版
+2024-08-02 09:58:07 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 默认杀死浏览器所有进程
+2024-08-02 09:58:10 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 正在加载 webdriver.Chrome 中，并与新浏览器建立通信.......
+2024-08-02 09:58:11 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 加载完成
+2024-08-02 09:58:11 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 09:58:14 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：AOMEI Partition Assistant Standard Edition - Safely Partition Your Hard Drives ，弹出窗口并且置顶显示。
+2024-08-02 09:58:14 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 成功获取软件的坐标，写入到yaml文件中
+2024-08-02 09:58:16 - logger_handler.py - [line:165] - INFO - [日志信息]:  --------- 当前运行的功能模块 ： 首页-升级
+2024-08-02 09:58:17 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-02 09:58:17 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：{'result': (952.0, 17.5), 'rectangle': ((942, 8), (942, 27), (962, 8), (962, 27)), 'confidence': 1.0}
+2024-08-02 09:58:17 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 鼠标移动到 (1272, 133) 处，并进行点击
+2024-08-02 09:58:19 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 鼠标移动到 (641, 703) 处，并进行点击
+2024-08-02 09:58:22 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 所有句柄：['8DF4705825FC1201B7DAE524C265AC2D', '4BD05592A52003E3F149E03C4F149A1A']
+2024-08-02 09:58:32 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 获取当前网页的URL：https://www.cleverbridge.com/1533/surl-rMdNk7cZNH
+2024-08-02 09:58:32 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 获取浏览器的所有句柄： ['8DF4705825FC1201B7DAE524C265AC2D', '4BD05592A52003E3F149E03C4F149A1A']
+2024-08-02 10:04:33 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 当前系统安装版本为： Std 版
+2024-08-02 10:04:40 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 默认杀死浏览器所有进程
+2024-08-02 10:04:40 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 触发程序，关闭 Chrome 浏览器
+2024-08-02 10:04:43 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 正在加载 webdriver.Chrome 中，并与新浏览器建立通信.......
+2024-08-02 10:04:45 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 加载完成
+2024-08-02 10:04:45 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 10:04:47 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：AOMEI Partition Assistant Standard Edition - Safely Partition Your Hard Drives ，弹出窗口并且置顶显示。
+2024-08-02 10:04:47 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 成功获取软件的坐标，写入到yaml文件中
+2024-08-02 10:04:49 - logger_handler.py - [line:165] - INFO - [日志信息]:  --------- 当前运行的功能模块 ： 首页-升级
+2024-08-02 10:04:50 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-02 10:04:50 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：{'result': (952.0, 17.5), 'rectangle': ((942, 8), (942, 27), (962, 8), (962, 27)), 'confidence': 1.0}
+2024-08-02 10:04:50 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 鼠标移动到 (1272, 133) 处，并进行点击
+2024-08-02 10:04:53 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 鼠标移动到 (641, 703) 处，并进行点击
+2024-08-02 10:04:55 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 所有句柄：['5F3BFC00F3013CBB81130CCB52C2C9B5', '6B8FFBE38475BDF43E0C8B23DD4F94FF']
+2024-08-02 10:05:01 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 获取当前网页的URL：https://www.cleverbridge.com/1533/surl-2J7dgXop7O
+2024-08-02 10:05:02 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 获取浏览器的所有句柄： ['5F3BFC00F3013CBB81130CCB52C2C9B5', '6B8FFBE38475BDF43E0C8B23DD4F94FF']
+2024-08-02 10:05:07 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 触发程序，关闭 Chrome 浏览器
+2024-08-02 10:13:14 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 当前系统安装版本为： Std 版
+2024-08-02 10:13:19 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 默认杀死浏览器所有进程
+2024-08-02 10:13:19 - logger_handler.py - [line:172] - ERROR - [日志信息]: 触发程序，关闭 Chrome 浏览器
+2024-08-02 10:13:22 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 正在加载 webdriver.Chrome 中，并与新浏览器建立通信.......
+2024-08-02 10:13:24 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 加载完成
+2024-08-02 10:13:24 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 10:13:26 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：AOMEI Partition Assistant Standard Edition - Safely Partition Your Hard Drives ，弹出窗口并且置顶显示。
+2024-08-02 10:13:26 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 成功获取软件的坐标，写入到yaml文件中
+2024-08-02 10:13:28 - logger_handler.py - [line:165] - INFO - [日志信息]:  --------- 当前运行的功能模块 ： 首页-升级
+2024-08-02 10:13:29 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-02 10:13:29 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：{'result': (952.0, 17.5), 'rectangle': ((942, 8), (942, 27), (962, 8), (962, 27)), 'confidence': 1.0}
+2024-08-02 10:13:29 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 鼠标移动到 (1272, 133) 处，并进行点击
+2024-08-02 10:13:32 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 鼠标移动到 (641, 703) 处，并进行点击
+2024-08-02 10:13:34 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 所有句柄：['1E17CE74418D5E4DE73FA2ADF39392FF', '1CA17DB30424EF12A4B25314310EEC29']
+2024-08-02 10:14:01 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 获取当前网页的URL：https://www.cleverbridge.com/1533/surl-VCbNcGWqyY
+2024-08-02 10:14:02 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 获取浏览器的所有句柄： ['1E17CE74418D5E4DE73FA2ADF39392FF', '1CA17DB30424EF12A4B25314310EEC29']
+2024-08-02 10:14:07 - logger_handler.py - [line:172] - ERROR - [日志信息]: 触发程序，关闭 Chrome 浏览器
+2024-08-02 15:11:07 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\PAcode.yaml'
+2024-08-02 15:11:07 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
+2024-08-02 15:11:20 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\PAcode.yaml'
+2024-08-02 15:11:20 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
+2024-08-02 15:11:46 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\PAcode.yaml'
+2024-08-02 15:11:46 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
+2024-08-02 15:12:04 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 15:12:04 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 15:12:06 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：None ，弹出窗口并且置顶显示。
+2024-08-02 15:12:06 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 15:12:27 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 15:12:29 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：傲梅轻松备份 ，弹出窗口并且置顶显示。
+2024-08-02 15:12:29 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 15:16:06 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 15:16:08 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：傲梅轻松备份 ，弹出窗口并且置顶显示。
+2024-08-02 15:16:08 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 15:16:39 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 15:16:41 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：傲梅轻松备份 ，弹出窗口并且置顶显示。
+2024-08-02 15:16:41 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 成功获取软件的坐标，写入到yaml文件中
+2024-08-02 15:24:38 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 74: invalid start byte
+2024-08-02 15:24:38 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:24:57 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:24:57 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:26:58 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:26:58 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:27:33 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:27:33 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:27:55 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:27:55 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:28:35 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:28:35 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:29:21 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:29:21 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:29:28 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:29:28 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:29:44 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:29:44 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:30:37 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:30:37 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:31:38 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:31:38 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:32:12 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 68: invalid start byte
+2024-08-02 15:32:12 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:32:54 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:32:54 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:33:17 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:33:17 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:34:53 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:34:53 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:35:11 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:35:11 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:35:39 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 25: invalid start byte
+2024-08-02 15:35:39 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:36:29 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 74: invalid start byte
+2024-08-02 15:36:29 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:38:08 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 69: invalid start byte
+2024-08-02 15:38:08 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:39:47 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 17: invalid start byte
+2024-08-02 15:39:47 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:41:44 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 17: invalid start byte
+2024-08-02 15:41:44 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 16:42:11 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\ABcode.yaml'
+2024-08-02 16:42:11 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
+2024-08-02 16:43:04 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 16:43:04 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:43:06 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：None ，弹出窗口并且置顶显示。
+2024-08-02 16:43:06 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:43:20 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 16:43:20 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:43:22 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：None ，弹出窗口并且置顶显示。
+2024-08-02 16:43:22 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:45:19 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 16:45:19 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:45:21 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：None ，弹出窗口并且置顶显示。
+2024-08-02 16:45:21 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:46:05 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 16:46:05 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:46:07 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：None ，弹出窗口并且置顶显示。
+2024-08-02 16:46:07 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:46:57 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 16:46:57 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:46:59 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：None ，弹出窗口并且置顶显示。
+2024-08-02 16:46:59 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:47:13 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 16:47:13 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:47:15 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：None ，弹出窗口并且置顶显示。
+2024-08-02 16:47:15 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:47:35 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 没有检测到软件运行，触发软件运行
+2024-08-02 16:47:35 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:47:59 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：傲梅轻松备份 ，弹出窗口并且置顶显示。
+2024-08-02 16:47:59 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\ABcode.yaml'
+2024-08-02 16:47:59 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
+2024-08-02 16:49:33 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 16:49:35 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：傲梅轻松备份 ，弹出窗口并且置顶显示。
+2024-08-02 16:49:35 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 成功获取软件的坐标，写入到yaml文件中
+2024-08-02 17:04:53 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 检测到软件正在运行中
+2024-08-02 17:04:55 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：傲梅轻松备份 ，弹出窗口并且置顶显示。
+2024-08-02 17:04:55 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 成功获取软件的坐标，写入到yaml文件中

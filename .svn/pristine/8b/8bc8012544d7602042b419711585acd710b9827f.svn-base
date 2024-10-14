@@ -1,0 +1,68 @@
+2024-08-05 14:03:34 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 没有检测到软件运行，触发软件运行
+2024-08-05 14:03:34 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-05 14:03:58 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：傲梅轻松备份 ，弹出窗口并且置顶显示。
+2024-08-05 14:03:58 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 成功获取软件的坐标，写入到yaml文件中
+2024-08-05 14:33:13 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 没有检测到软件运行，触发软件运行
+2024-08-05 14:33:14 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\PAcode.yaml'
+2024-08-05 14:33:14 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
+2024-08-05 14:34:38 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 没有检测到软件运行，触发软件运行
+2024-08-05 14:34:40 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:34:46 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:34:46 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：None
+2024-08-05 14:34:46 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:34:46 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 1 次
+2024-08-05 14:34:52 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:34:52 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：None
+2024-08-05 14:34:52 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:34:52 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 2 次
+2024-08-05 14:34:58 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:34:58 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：{'result': (515.0, 395.0), 'rectangle': ((0, 80), (0, 710), (1030, 80), (1030, 710)), 'confidence': 0.5100914239883423}
+2024-08-05 14:34:58 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:34:58 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 3 次
+2024-08-05 14:35:04 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:35:04 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：{'result': (515.0, 395.0), 'rectangle': ((0, 80), (0, 710), (1030, 80), (1030, 710)), 'confidence': 0.5100914239883423}
+2024-08-05 14:35:04 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:35:04 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 4 次
+2024-08-05 14:38:26 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 没有检测到软件运行，触发软件运行
+2024-08-05 14:38:27 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:38:27 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：None
+2024-08-05 14:38:27 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:27 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 1 次
+2024-08-05 14:38:33 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:38:33 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：None
+2024-08-05 14:38:33 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:33 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 2 次
+2024-08-05 14:38:39 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:38:39 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：None
+2024-08-05 14:38:39 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:39 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 3 次
+2024-08-05 14:38:46 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:38:46 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：None
+2024-08-05 14:38:46 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:46 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 4 次
+2024-08-05 14:38:52 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:38:52 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：None
+2024-08-05 14:38:52 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:52 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 5 次
+2024-08-05 14:38:58 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:38:58 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：None
+2024-08-05 14:38:58 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:58 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 6 次
+2024-08-05 14:39:04 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:39:04 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：None
+2024-08-05 14:39:04 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:39:04 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 7 次
+2024-08-05 14:39:10 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:39:10 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：{'result': (569.0, 315.0), 'rectangle': ((54, 0), (54, 630), (1084, 0), (1084, 630)), 'confidence': 0.9069928526878357}
+2024-08-05 14:39:14 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 软件：傲梅轻松备份 ，弹出窗口并且置顶显示。
+2024-08-05 14:39:14 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 成功获取软件的坐标，写入到yaml文件中
+2024-08-05 14:55:59 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 没有检测到软件运行，触发软件运行
+2024-08-05 14:56:00 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:56:00 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：None
+2024-08-05 14:56:00 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:56:00 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 1 次
+2024-08-05 14:56:07 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 截图软件主界面 - 成功
+2024-08-05 14:56:07 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 对比结果：None
+2024-08-05 14:56:07 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:56:07 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 循环检测图片是否出现，第 2 次
+2024-08-05 15:01:25 - logger_handler.py - [line:167] - DEBUG - [日志信息]: 静默安装软件，请等待...

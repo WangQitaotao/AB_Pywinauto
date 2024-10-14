@@ -1,0 +1,16 @@
+2024-08-05 14:03:34 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-05 14:33:14 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\PAcode.yaml'
+2024-08-05 14:33:14 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
+2024-08-05 14:34:46 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:34:52 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:34:58 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:35:04 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:27 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:33 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:39 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:46 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:52 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:38:58 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:39:04 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:56:00 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果
+2024-08-05 14:56:07 - logger_handler.py - [line:172] - ERROR - [日志信息]: 相似度未达到阈值要求或未找到匹配结果

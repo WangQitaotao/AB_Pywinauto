@@ -1,0 +1,71 @@
+2024-08-02 10:13:19 - logger_handler.py - [line:172] - ERROR - [日志信息]: 触发程序，关闭 Chrome 浏览器
+2024-08-02 10:14:07 - logger_handler.py - [line:172] - ERROR - [日志信息]: 触发程序，关闭 Chrome 浏览器
+2024-08-02 15:11:07 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\PAcode.yaml'
+2024-08-02 15:11:07 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
+2024-08-02 15:11:20 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\PAcode.yaml'
+2024-08-02 15:11:20 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
+2024-08-02 15:11:46 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\PAcode.yaml'
+2024-08-02 15:11:46 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
+2024-08-02 15:12:04 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 15:12:06 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 15:12:29 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 15:16:08 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 15:24:38 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 74: invalid start byte
+2024-08-02 15:24:38 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:24:57 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:24:57 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:26:58 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:26:58 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:27:33 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:27:33 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:27:55 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:27:55 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:28:35 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:28:35 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:29:21 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:29:21 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:29:28 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:29:28 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:29:44 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:29:44 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:30:37 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:30:37 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:31:38 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:31:38 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:32:12 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 68: invalid start byte
+2024-08-02 15:32:12 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:32:54 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:32:54 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:33:17 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:33:17 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:34:53 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:34:53 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:35:11 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 75: invalid start byte
+2024-08-02 15:35:11 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:35:39 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 25: invalid start byte
+2024-08-02 15:35:39 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:36:29 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 74: invalid start byte
+2024-08-02 15:36:29 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:38:08 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 69: invalid start byte
+2024-08-02 15:38:08 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:39:47 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 17: invalid start byte
+2024-08-02 15:39:47 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 15:41:44 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：'utf-8' codec can't decode byte 0xb0 in position 17: invalid start byte
+2024-08-02 15:41:44 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你编辑的yaml文件内容格式可能不正确。
+2024-08-02 16:42:11 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\ABcode.yaml'
+2024-08-02 16:42:11 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
+2024-08-02 16:43:04 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:43:06 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:43:20 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:43:22 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:45:19 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:45:21 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:46:05 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:46:07 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:46:57 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:46:59 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:47:13 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:47:15 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:47:35 - logger_handler.py - [line:172] - ERROR - [日志信息]: 未找到匹配的窗口标题口
+2024-08-02 16:47:59 - logger_handler.py - [line:172] - ERROR - [日志信息]: 代码本身报错：[Errno 2] No such file or directory: 'N:\\AB_Pywinauto\\data\\ABcode.yaml'
+2024-08-02 16:47:59 - logger_handler.py - [line:172] - ERROR - [日志信息]: 你输入的文件名不正确或者文件不存在。
